@@ -52,7 +52,7 @@
         <div class="topbar topbar--two">
             <div class="container">
                 <div class="topbar__inner">
-                    <p class="topbar__text"><span>NOTE :</span> Insurance of the socie where Insuba!</p><!-- /.topbar__text -->
+                    <p class="topbar__text">Não somos filiados a <span>SUSEP</span>, somos um grupo fechado de socorro mútuo⚠️</p><!-- /.topbar__text -->
                     <div class="topbar__right">
                         <div class="topbar__social social-links">
                             <a href="https://facebook.com">
@@ -61,32 +61,19 @@
                                     <span class="sr-only">Facebook</span>
                                 </span><!-- /.social-links__icon -->
                             </a>
-                            <a href="https://pinterest.com">
-                                <span class="social-links__icon">
-                                    <i class="fab fa-pinterest-p" aria-hidden="true"></i>
-                                    <span class="sr-only">Pinterest</span>
-                                </span><!-- /.social-links__icon -->
-                            </a>
-                            <a href="https://twitter.com">
-                                <span class="social-links__icon">
-                                    <i class="fab fa-twitter" aria-hidden="true"></i>
-                                    <span class="sr-only">Twitter</span>
-                                </span><!-- /.social-links__icon -->
-                            </a>
                             <a href="https://instagram.com">
                                 <span class="social-links__icon">
                                     <i class="fab fa-instagram" aria-hidden="true"></i>
                                     <span class="sr-only">Instagram</span>
                                 </span><!-- /.social-links__icon -->
                             </a>
+                            <a href="https://instagram.com">
+                                <span class="social-links__icon">
+                                    <i class="fab fa-whatsapp" aria-hidden="true"></i>
+                                    <span class="sr-only">Instagram</span>
+                                </span><!-- /.social-links__icon -->
+                            </a>
                         </div><!-- /.topbar__social social-links -->
-                        <div class="topbar__language">
-                            <label class="sr-only" for="language-select-header">select language</label><!-- /.sr-only -->
-                            <select class="selectpicker" id="language-select-header">
-                                <option value="english">English</option>
-                                <option value="arabic">Arabic</option>
-                            </select>
-                        </div><!-- /.topbar__language -->
                     </div><!-- /.topbar__right -->
                 </div><!-- /.topbar__inner -->
             </div><!-- /.container -->
@@ -112,7 +99,7 @@
 
 
                                 <li class="megamenu megamenu-clickable megamenu-clickable--toggler">
-                                    <a href="index.html">Demos</a>
+                                    <a href="index.html">Quem somos</a>
                                     <ul>
                                         <li>
                                             <div class="megamenu-popup">
