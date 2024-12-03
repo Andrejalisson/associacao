@@ -55,19 +55,13 @@
                     <p class="topbar__text">Não somos filiados a <span>SUSEP</span>, somos um grupo fechado de socorro mútuo⚠️</p><!-- /.topbar__text -->
                     <div class="topbar__right">
                         <div class="topbar__social social-links">
-                            <a href="https://facebook.com">
-                                <span class="social-links__icon">
-                                    <i class="fab fa-facebook-f" aria-hidden="true"></i>
-                                    <span class="sr-only">Facebook</span>
-                                </span><!-- /.social-links__icon -->
-                            </a>
-                            <a href="https://instagram.com">
+                            <a href="https://www.instagram.com/sgroupnacional/" target="_blank">
                                 <span class="social-links__icon">
                                     <i class="fab fa-instagram" aria-hidden="true"></i>
                                     <span class="sr-only">Instagram</span>
                                 </span><!-- /.social-links__icon -->
                             </a>
-                            <a href="https://instagram.com">
+                            <a href="https://wa.me/5585997905511?text=Quero%20fazer%20minha%20cota%C3%A7%C3%A3o" target="_blank">
                                 <span class="social-links__icon">
                                     <i class="fab fa-whatsapp" aria-hidden="true"></i>
                                     <span class="sr-only">Instagram</span>
@@ -96,312 +90,50 @@
                         </div><!-- /.mobile-nav__toggler -->
                         <nav class="main-header__nav main-menu">
                             <ul class="main-menu__list">
-
-
-                                <li class="megamenu megamenu-clickable megamenu-clickable--toggler">
-                                    <a href="index.html">Quem somos</a>
-                                    <ul>
-                                        <li>
-                                            <div class="megamenu-popup">
-                                                <a href="#" class="megamenu-clickable--close"><span class="icon-close"></span></a>
-                                                <!-- /.megamenu-clickable--close -->
-                                                <div class="megamenu-popup__content">
-                                                    <div class="demo-one">
-                                                        <div class="container">
-                                                            <div class="row">
-                                                                <div class="col-md-6 col-lg-4">
-                                                                    <div class="demo-one__card">
-                                                                        <div class="demo-one__image">
-                                                                            <img src="/site/assets/images/landing/home-1.jpg" alt="">
-                                                                            <div class="demo-one__btns">
-                                                                                <a href="index.html" class="insuba-btn insuba-btn--base demo-one__btn">
-                                                                                    <span>Multi Page</span>
-                                                                                    <span class="insuba-btn__icon-box">
-                                                                                        <span class="insuba-btn__icon"><i class="fas fa-arrow-right"></i></span>
-                                                                                    </span>
-                                                                                </a><!-- /.insuba-btn demo-one__btn -->
-                                                                                <a href="index-one-page.html" class="insuba-btn insuba-btn--base demo-one__btn">
-                                                                                    <span>One Page</span>
-                                                                                    <span class="insuba-btn__icon-box">
-                                                                                        <span class="insuba-btn__icon"><i class="fas fa-arrow-right"></i></span>
-                                                                                    </span>
-                                                                                </a><!-- /.insuba-btn demo-one__btn -->
-                                                                            </div><!-- /.demo-one__btns -->
-                                                                        </div><!-- /.demo-one__image -->
-                                                                        <div class="demo-one__content">
-                                                                            <h3 class="demo-one__title">
-                                                                                <a href="index.html">Home Page 01</a>
-                                                                            </h3><!-- /.demo-one__title -->
-                                                                        </div><!-- /.demo-one__content -->
-                                                                    </div><!-- /.demo-one__card -->
-                                                                </div><!-- /.col-md-6 col-lg-3 -->
-                                                                <div class="col-md-6 col-lg-4">
-                                                                    <div class="demo-one__card">
-                                                                        <div class="demo-one__image">
-                                                                            <img src="/site/assets/images/landing/home-2.jpg" alt="">
-                                                                            <div class="demo-one__btns">
-                                                                                <a href="index-2.html" class="insuba-btn insuba-btn--base demo-one__btn">
-                                                                                    <span>Multi Page</span>
-                                                                                    <span class="insuba-btn__icon-box">
-                                                                                        <span class="insuba-btn__icon"><i class="fas fa-arrow-right"></i></span>
-                                                                                    </span>
-                                                                                </a><!-- /.insuba-btn demo-one__btn -->
-                                                                                <a href="index-2-one-page.html" class="insuba-btn insuba-btn--base demo-one__btn">
-                                                                                    <span>One Page</span>
-                                                                                    <span class="insuba-btn__icon-box">
-                                                                                        <span class="insuba-btn__icon"><i class="fas fa-arrow-right"></i></span>
-                                                                                    </span>
-                                                                                </a><!-- /.insuba-btn demo-one__btn -->
-                                                                            </div><!-- /.demo-one__btns -->
-                                                                        </div><!-- /.demo-one__image -->
-                                                                        <div class="demo-one__content">
-                                                                            <h3 class="demo-one__title">
-                                                                                <a href="index-2.html">Home Page 02</a>
-                                                                            </h3><!-- /.demo-one__title -->
-                                                                        </div><!-- /.demo-one__content -->
-                                                                    </div><!-- /.demo-one__card -->
-                                                                </div><!-- /.col-md-6 col-lg-3 -->
-                                                                <div class="col-md-6 col-lg-4">
-                                                                    <div class="demo-one__card">
-                                                                        <div class="demo-one__image">
-                                                                            <img src="/site/assets/images/landing/home-3.jpg" alt="">
-                                                                            <div class="demo-one__btns">
-                                                                                <a href="index-3.html" class="insuba-btn insuba-btn--base demo-one__btn">
-                                                                                    <span>Multi Page</span>
-                                                                                    <span class="insuba-btn__icon-box">
-                                                                                        <span class="insuba-btn__icon"><i class="fas fa-arrow-right"></i></span>
-                                                                                    </span>
-                                                                                </a><!-- /.insuba-btn demo-one__btn -->
-                                                                                <a href="index-3-one-page.html" class="insuba-btn insuba-btn--base demo-one__btn">
-                                                                                    <span>One Page</span>
-                                                                                    <span class="insuba-btn__icon-box">
-                                                                                        <span class="insuba-btn__icon"><i class="fas fa-arrow-right"></i></span>
-                                                                                    </span>
-                                                                                </a><!-- /.insuba-btn demo-one__btn -->
-                                                                            </div><!-- /.demo-one__btns -->
-                                                                        </div><!-- /.demo-one__image -->
-                                                                        <div class="demo-one__content">
-                                                                            <h3 class="demo-one__title">
-                                                                                <a href="index-3.html">Home Page 03</a>
-                                                                            </h3><!-- /.demo-one__title -->
-                                                                        </div><!-- /.demo-one__content -->
-                                                                    </div><!-- /.demo-one__card -->
-                                                                </div><!-- /.col-md-6 col-lg-3 -->
-                                                                <div class="col-md-6 col-lg-4">
-                                                                    <div class="demo-one__card">
-                                                                        <div class="demo-one__image">
-                                                                            <img src="/site/assets/images/landing/home-4.jpg" alt="">
-                                                                            <div class="demo-one__btns">
-                                                                                <a href="index-4.html" class="insuba-btn insuba-btn--base demo-one__btn">
-                                                                                    <span>Multi Page</span>
-                                                                                    <span class="insuba-btn__icon-box">
-                                                                                        <span class="insuba-btn__icon"><i class="fas fa-arrow-right"></i></span>
-                                                                                    </span>
-                                                                                </a><!-- /.insuba-btn demo-one__btn -->
-                                                                                <a href="index-4-one-page.html" class="insuba-btn insuba-btn--base demo-one__btn">
-                                                                                    <span>One Page</span>
-                                                                                    <span class="insuba-btn__icon-box">
-                                                                                        <span class="insuba-btn__icon"><i class="fas fa-arrow-right"></i></span>
-                                                                                    </span>
-                                                                                </a><!-- /.insuba-btn demo-one__btn -->
-                                                                            </div><!-- /.demo-one__btns -->
-                                                                        </div><!-- /.demo-one__image -->
-                                                                        <div class="demo-one__content">
-                                                                            <h3 class="demo-one__title">
-                                                                                <a href="index-4.html">Home Page 04</a>
-                                                                            </h3><!-- /.demo-one__title -->
-                                                                        </div><!-- /.demo-one__content -->
-                                                                    </div><!-- /.demo-one__card -->
-                                                                </div><!-- /.col-md-6 col-lg-3 -->
-                                                                <div class="col-md-6 col-lg-4">
-                                                                    <div class="demo-one__card">
-                                                                        <div class="demo-one__image">
-                                                                            <img src="/site/assets/images/landing/home-boxed.jpg" alt="">
-                                                                            <div class="demo-one__btns">
-                                                                                <a href="index-boxed.html" class="insuba-btn insuba-btn--base demo-one__btn">
-                                                                                    <span>View Page</span>
-                                                                                    <span class="insuba-btn__icon-box">
-                                                                                        <span class="insuba-btn__icon"><i class="fas fa-arrow-right"></i></span>
-                                                                                    </span>
-                                                                                </a><!-- /.insuba-btn demo-one__btn -->
-                                                                            </div><!-- /.demo-one__btns -->
-                                                                        </div><!-- /.demo-one__image -->
-                                                                        <div class="demo-one__content">
-                                                                            <h3 class="demo-one__title">
-                                                                                <a href="index-boxed.html">Home Boxed</a>
-                                                                            </h3><!-- /.demo-one__title -->
-                                                                        </div><!-- /.demo-one__content -->
-                                                                    </div><!-- /.demo-one__card -->
-                                                                </div><!-- /.col-md-6 col-lg-3 -->
-                                                                <div class="col-md-6 col-lg-4">
-                                                                    <div class="demo-one__card">
-                                                                        <div class="demo-one__image">
-                                                                            <img src="/site/assets/images/landing/home-rtl.jpg" alt="">
-                                                                            <div class="demo-one__btns">
-                                                                                <a href="index-rtl.html" class="insuba-btn insuba-btn--base demo-one__btn">
-                                                                                    <span>View Page</span>
-                                                                                    <span class="insuba-btn__icon-box">
-                                                                                        <span class="insuba-btn__icon"><i class="fas fa-arrow-right"></i></span>
-                                                                                    </span>
-                                                                                </a><!-- /.insuba-btn demo-one__btn -->
-                                                                            </div><!-- /.demo-one__btns -->
-                                                                        </div><!-- /.demo-one__image -->
-                                                                        <div class="demo-one__content">
-                                                                            <h3 class="demo-one__title">
-                                                                                <a href="index.html">Home RTL</a>
-                                                                            </h3><!-- /.demo-one__title -->
-                                                                        </div><!-- /.demo-one__content -->
-                                                                    </div><!-- /.demo-one__card -->
-                                                                </div><!-- /.col-md-6 col-lg-3 -->
-                                                            </div><!-- /.row -->
-                                                        </div><!-- /.container -->
-                                                    </div><!-- /.demos-one -->
-                                                </div><!-- /.megamenu-popup__content -->
-                                            </div><!-- /.megamenu-popup -->
-                                        </li>
-                                    </ul>
-                                </li>
-
-
                                 <li class="dropdown">
-                                    <a href="#">Insurance</a>
+                                    <a href="#">Proteção Auto</a>
                                     <ul>
-                                        <li><a href="insurance.html">Our Insurance</a></li>
-                                        <li><a href="insurance-carousel.html">Insurance Carousel</a></li>
-                                        <li><a href="insurance-d-car-insurance.html">Car Insurance</a></li>
-                                        <li><a href="insurance-d-life-insurance.html">Life Insurance</a></li>
-                                        <li><a href="insurance-d-business-insurance.html">Business Insurance</a></li>
-                                        <li><a href="insurance-d-healthy-insurance.html">Healthy Insurance</a></li>
-                                        <li><a href="insurance-d-home-insurance.html">Home Insurance</a></li>
-                                        <li><a href="insurance-d-finance-insurance.html">Finance Insurance</a></li>
+                                        <li><a href="insurance.html">Veículo Particular</a></li>
+                                        <li><a href="insurance-carousel.html">Motorista APP | Táxi</a></li>
+                                        <li><a href="insurance-d-car-insurance.html">Plano Light</a></li>
+                                        <li><a href="insurance-d-life-insurance.html">Rastreamento Garantido</a></li>
                                     </ul>
                                 </li>
 
                                 <li class="dropdown">
-                                    <a href="#">Services </a>
+                                    <a href="#">Proteção Moto</a>
                                     <ul>
-                                        <li><a href="services.html">Our Services 01</a></li>
-                                        <li><a href="services-2.html">Our Services 02</a></li>
-                                        <li><a href="services-3.html">Our Services 03</a></li>
-                                        <li><a href="services-4.html">Our Services 04</a></li>
-                                        <li><a href="services-carousel.html">Services Carousel 01</a></li>
-                                        <li><a href="services-carousel-2.html">Services Carousel 02</a></li>
-                                        <li><a href="services-carousel-3.html">Services Carousel 03</a></li>
-                                        <li><a href="services-carousel-4.html">Services Carousel 04</a></li>
-                                        <li><a href="service-d-car-insurance.html">Car Insurance</a></li>
-                                        <li><a href="service-d-life-insurance.html">life insurance</a></li>
-                                        <li><a href="service-d-business-insurance.html">Business Insurance</a></li>
-                                        <li><a href="service-d-healthy-insurance.html">Healthy Insurance</a></li>
-                                        <li><a href="service-d-home-insurance.html">Home Insurance</a></li>
-                                        <li><a href="service-d-finance-insurance.html">Finance Insurance</a></li>
+                                        <li><a href="services.html">Moto FIPE</a></li>
+                                        <li><a href="services-2.html">Rastreamento Garantido</a></li>
                                     </ul>
                                 </li>
                                 <li class="dropdown">
-                                    <a href="#">Pages </a>
+                                    <a href="#">Proteção Utilitário</a>
                                     <ul>
-                                        <li>
-                                            <a href="about.html">About Us</a>
-                                        </li>
-                                        <li class="dropdown">
-                                            <a href="#">Our Team</a>
-                                            <ul>
-                                                <li><a href="team.html">Our Team 01</a></li>
-                                                <li><a href="team-2.html">Our Team 02</a></li>
-                                                <li><a href="team-3.html">Our Team 03</a></li>
-                                                <li><a href="team-carousel.html">Team Carousel 01</a></li>
-                                                <li><a href="team-carousel-2.html">Team Carousel 02</a></li>
-                                                <li><a href="team-carousel-3.html">Team Carousel 03</a></li>
-                                                <li><a href="team-details.html">Team Details</a></li>
-                                            </ul>
-                                        </li>
-
-                                        <li class="dropdown">
-                                            <a href="#">Our Portfolio</a>
-                                            <ul>
-                                                <li><a href="portfolio.html">Our Portfolio 01</a></li>
-                                                <li><a href="portfolio-2.html">Our Portfolio 02</a></li>
-                                                <li><a href="portfolio-carousel.html">Portfolio Carousel 01</a></li>
-                                                <li><a href="portfolio-carousel-2.html">Portfolio Carousel 02</a></li>
-                                                <li><a href="portfolio-details.html">Portfolio Details</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="dropdown">
-                                            <a href="#">Our Testimonials</a>
-                                            <ul>
-                                                <li><a href="testimonials.html">Our Testimonials 01</a></li>
-                                                <li><a href="testimonials-2.html">Our Testimonials 02</a></li>
-                                                <li><a href="testimonials-carousel.html">Testimonials Carousel 01</a></li>
-                                                <li><a href="testimonials-carousel-2.html">Testimonials Carousel 02</a></li>
-                                            </ul>
-                                        </li>
-                                        <li><a href="pricing.html">Pricing Plan</a></li>
-                                        <li><a href="faq.html">FAQ</a></li>
-                                        <li><a href="login.html">Login</a></li>
-                                        <li><a href="404.html">404 Error</a></li>
+                                        <li><a href="services.html">Ultilitário | SUV</a></li>
+                                        <li><a href="services-2.html">Caminhões | Ônibus | Vans</a></li>
+                                        <li><a href="services-2.html">Rastreamento Frotas</a></li>
                                     </ul>
                                 </li>
                                 <li class="dropdown">
-                                    <a href="#">Shop </a>
+                                    <a href="#">Assistência 24h</a>
                                     <ul>
-                                        <li class="dropdown">
-                                            <a href="#">Products</a>
-                                            <ul>
-                                                <li><a href="products.html">No sidebar</a></li>
-                                                <li><a href="products-left.html">Left sidebar</a></li>
-                                                <li><a href="products-right.html">Right sidebar</a></li>
-                                            </ul>
-                                        </li>
-                                        <li><a href="products-carousel.html">Products carousel</a></li>
-                                        <li><a href="product-details.html">Product details</a></li>
-                                        <li><a href="cart.html">Cart</a></li>
-                                        <li><a href="checkout.html">Checkout</a></li>
+                                        <li><a href="services.html">Reboque Colisão | Capotamento</a></li>
+                                        <li><a href="services-2.html">Reboque Pane Elétrica | Mecânica</a></li>
+                                        <li><a href="services-2.html">Auxílio Chaveiro</a></li>
+                                        <li><a href="services-2.html">Recarga de Bateria</a></li>
+                                        <li><a href="services-2.html">Pane Seca</a></li>
+                                        <li><a href="services-2.html">Troca de Pneus</a></li>
+                                        <li><a href="services-2.html">Transporte Alternativo</a></li>
+                                        <li><a href="services-2.html">Hospedágem</a></li>
                                     </ul>
-                                </li>
-                                <li class="dropdown">
-                                    <a href="#">Blog </a>
-                                    <ul>
-                                        <li class="dropdown">
-                                            <a href="#">Blog grid</a>
-                                            <ul>
-                                                <li><a href="blog-grid.html">No sidebar</a></li>
-                                                <li><a href="blog-grid-left.html">Left sidebar</a></li>
-                                                <li><a href="blog-grid-right.html">Right sidebar</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="dropdown">
-                                            <a href="#">Blog list</a>
-                                            <ul>
-                                                <li><a href="blog-list.html">No sidebar</a></li>
-                                                <li><a href="blog-list-left.html">Left sidebar</a></li>
-                                                <li><a href="blog-list-right.html">Right sidebar</a></li>
-                                            </ul>
-                                        </li>
-                                        <li><a href="blog-carousel.html">Blog carousel</a></li>
-                                        <li class="dropdown">
-                                            <a href="#">Blog details</a>
-                                            <ul>
-                                                <li><a href="blog-details.html">No sidebar</a></li>
-                                                <li><a href="blog-details-left.html">Left sidebar</a></li>
-                                                <li><a href="blog-details-right.html">Right sidebar</a></li>
-                                            </ul>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li>
-                                    <a href="contact.html">Contact</a>
                                 </li>
                             </ul>
                         </nav><!-- /.main-header__nav -->
-                        <a href="#" class="main-header__search search-toggler">
-                            <span class="main-header__search__icon">
-                                <i class="icon-search" aria-hidden="true"></i>
-                                <span class="sr-only">Search</span>
-                            </span>
-                        </a><!-- /.main-header__search -->
-                        <a href="login.html" class="main-header__user">
+                        <a href="/login" class="main-header__user">
                             <span class="main-header__user__icon">
                                 <i class="icon-user-2" aria-hidden="true"></i>
-                                <span class="sr-only">User</span>
+                                <span class="sr-only">Login</span>
                             </span>
                         </a><!-- /.main-header__user -->
                     </div><!-- /.main-header__right -->
@@ -416,7 +148,7 @@
         "animateIn": "fadeIn",
         "animateOut": "fadeOut",
         "loop": true,
-        "smartSpeed": 700,
+        "smartSpeed": 3000,
         "nav": true,
         "dots": false,
         "autoplay": true,
@@ -714,7 +446,7 @@
                             "animateIn": "fadeIn",
                             "animateOut": "fadeOut",
                             "loop": true,
-                            "smartSpeed": 700,
+                            "smartSpeed": 3000,
                             "nav": true,
                             "dots": false,
                             "autoplay": true,
@@ -1267,7 +999,7 @@
             "items": 1,
             "margin": 10,
             "loop": true,
-            "smartSpeed": 700,
+            "smartSpeed": 3000,
             "nav": false,
             "dots": true,
             "navText": ["<i class=\"fas fa-chevron-left\"></i>","<i class=\"fas fa-chevron-right\"></i>"],
@@ -1613,7 +1345,7 @@
             "items": 1,
             "margin": 10,
             "loop": true,
-            "smartSpeed": 700,
+            "smartSpeed": 3000,
             "nav": false,
             "dots": true,
             "navText": ["<i class=\"fas fa-chevron-left\"></i>","<i class=\"fas fa-chevron-right\"></i>"],
@@ -2248,7 +1980,7 @@
                 <div class="client-carousel__carousel insuba-owl__carousel insuba-owl__carousel--with-shadow insuba-owl__carousel--basic-nav owl-theme owl-carousel" data-owl-options='{
             "items": 5,
             "margin": 65,
-            "smartSpeed": 700,
+            "smartSpeed": 3000,
             "loop":true,
             "autoplay": 6000,
             "nav":false,
